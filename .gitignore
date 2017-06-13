@@ -1,0 +1,8 @@
+packages
+recovery
+blob-store
+compile-cache
+storage
+package-deps-state.json
+.apm
+.node-gyp

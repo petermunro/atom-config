@@ -1,0 +1,89 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "0ffa5e0b-0b57-4c4f-baf1-538508c46df7"
+  core:
+    disabledPackages: [
+      "vim-mode"
+      "markdown-scroll-sync"
+      "markdown-preview"
+    ]
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-light-theme"
+    ]
+  editor:
+    invisibles: {}
+    tabType: "soft"
+  "elm-format":
+    binary: "/opt/bin/elm-format"
+  emmet:
+    extensionsPath: "~/.emmet"
+  "exception-reporting":
+    userId: "7b3dc7f1-5b15-7792-4c7e-87b4b70291c7"
+  "git-plus":
+    general:
+      _analyticsUserId: "f90274df-8afb-4c8f-8a00-6935e67ce271"
+  "language-elm":
+    elmOraclePath: "/Users/peter/.nvm/versions/node/v5.7.1/bin/elm-oracle"
+  "linter-ui-default":
+    panelHeight: 81
+    showPanel: true
+  "markdown-preview-enhanced":
+    exportPDFPageFormat: "A4"
+    fileExtension: ".md, .mmark, .markdown, .Rmd"
+  metrics:
+    userId: "bd9dd8a59cadfd53ac4f42979bb06d7068181cb9"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  "platformio-ide-terminal":
+    ansiColors:
+      zBright:
+        brightYellow: "#dddc01"
+    style:
+      theme: "inverse"
+    toggles:
+      autoClose: true
+  "release-notes":
+    viewedVersion: "0.81.0"
+  swackets:
+    colorParens: true
+    colorSquareBrackets: true
+    colors: [
+      "#9c5e99"
+      "#8ab7d8"
+      "#60dd60"
+      "#abab0c"
+      "#ea9d70"
+      "#971717"
+    ]
+  "terminal-plus":
+    ansiColors:
+      normal:
+        black: "#000324"
+        blue: "#5762de"
+        cyan: "#339cb9"
+        green: "#00b514"
+        magenta: "#c557cd"
+        red: "#cd4336"
+        white: "#bdc6cf"
+        yellow: "#d0cb37"
+      zBright:
+        brightBlue: "#6674ff"
+    style:
+      theme: "pro"
+  "tree-view":
+    showOnRightSide: true
+  welcome:
+    showOnStartup: false
